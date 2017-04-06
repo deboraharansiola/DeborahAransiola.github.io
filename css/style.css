@@ -1,0 +1,161 @@
+body {
+
+
+}
+
+/* Style*/
+/* Style settings for all hearder 1*/
+h1 {
+	color:rgb(#92b901); 
+	background-color:transparent; 
+	text-decoration:bold; 
+	font-family: Agency FB;
+ 	font-size: 120%;
+ 	text-align:center;
+}
+
+/* Style settings for the navigation section of the various menu bar links*/
+.nav{
+	
+	margin-left: 0px;
+	margin-top: 0px;
+	background-color: black;
+	width: 100%;
+}
+
+/* ulist: This style setting put each menu title on a listed form without abullet point*/
+ul {color:blue;
+	background-color: black;
+	text-decoration:bold;
+	font-family: ALGERIAN;
+	height:40px; 
+	text-align: left;
+	width:90%;
+	margin:auto;
+
+}
+
+/* List: This style setting put each menu title on a proper listed form */
+		
+li {
+	display: inline-block;
+	float: left;
+	border-right: 3px solid red;
+	padding:5px;
+	margin:3px;
+	text-align:center;
+}
+
+/* style setting for a*/
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/* Hover to make the text constant and not moving from one place to the other*/
+a:hover {
+	color: blue;
+	text-decoration: none;
+}
+
+/* Section: This is the style setting for each section found in html linking the menu bars*/
+section{
+	width: 100%;
+	height: 40%;
+	float: left;
+	
+} 
+
+/* Form: This is the style setting for the form section for contacting me by filling personal details*/
+.form-wrapper {
+	float: right;
+	border-right: 3px solid red;
+}
+
+
+/* Picture: This is the style setting for my personal picture found on the web page in the about menu bar */
+#mypic {
+	padding: 10px;
+}
+
+
+/* Section style: This is the individual style setting for each section found in html linking the menu bars*/
+/* Stye settings for home menu bar*/
+#Home {
+   background-image: url("../images/google-servers-down.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+  height: 600px;
+}
+
+/* Menu bar about: This is the style settings for home about menu bar*/
+.about {
+  background-color: #CCCCCC;
+  height: 650px;
+  font-size: 120%;
+  padding-right: 1%;
+}
+
+
+/* Menu bar Portfolio: This is the style settings for portfolio menu bar*/
+.portfolio {
+  background-color: #f26d6d;
+  background-image: url("../images/Coming-Soon.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+  height: 600px;
+
+}
+
+
+/* Menu bar Skills: This is the style settings for skills menu bar*/
+.skills{
+   background-image: url("../images/html_css_js.png");
+	background-repeat: no-repeat;
+	background-size: 70%;
+  height: 600px;
+  font-size: 200%;
+  text-align:right;
+}
+
+
+/* Menu bar Contact: This is the style settings for contact menu bar*/
+  .contact {
+  padding: 0.5%;
+  background-color: lightgrey;
+}
+
+
+/* Header 2: This is the  design settings for header 2 found in the Home menu bar at the top section of the web page*/
+h2 {color:black;
+	background-color: transparent;
+	text-decoration:bold;
+	font-family: Agency FB;
+	text-align:left;
+	width:35%;
+	margin-right: auto;
+}
+
+
+/* Header 3: This is the design settings for header 3 found in the closing remark section below the web page*/
+h3 {color:black;
+	background-color: transparent;
+	text-decoration:bold;
+	font-family: Agency FB;
+	text-align: center;
+	width:35%;
+	margin:auto;
+}
+
+.email-input {
+	width: 29%;
+	font-size: 20px;
+}
+/* Link: This section shows the design for the links to the various logo for connecting with me on the social networks-*/
+#linklogo
+{
+ float: right;
+}
+
+/* End Style*/
+
